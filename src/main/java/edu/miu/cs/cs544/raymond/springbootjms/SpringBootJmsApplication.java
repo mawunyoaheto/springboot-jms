@@ -10,7 +10,6 @@ public class SpringBootJmsApplication {
 
     public static void main(String[] args) {
         System.out.println("App start...");
-        System.out.println("App start...");
         SpringApplication.run(SpringBootJmsApplication.class, args);
         System.out.println("App end...");
     }
